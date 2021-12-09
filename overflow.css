@@ -1,0 +1,32 @@
+div{
+    height: 200px;
+    width: 1000px;
+    background-color: rgba(45, 82, 141, 0.705);
+    border-radius: 10px;
+    border: 3px solid yellow;
+    box-shadow: 2px gray;
+    margin-top: 50px;
+    margin-left: 150px;
+    overflow: scroll;
+}
+img{
+    width:290px;
+    height: 160px;
+    border: 3px solid yellow;
+    border-radius: 8px;
+    margin: 10px;
+}
+#hidden{
+    overflow: hidden;
+}
+#visible{
+    overflow: visible;
+}
+#auto{
+    overflow: auto;
+    margin-top: 500px;
+}
+h2{
+    text-align: center;
+    color: rgb(41, 39, 160);
+}
